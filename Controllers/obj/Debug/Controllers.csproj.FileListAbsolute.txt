@@ -1,0 +1,16 @@
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Controllers\obj\Debug\Controllers.csprojAssemblyReference.cache
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Controllers\bin\Debug\Controllers.dll.config
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Controllers\bin\Debug\Controllers.dll
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Controllers\bin\Debug\Controllers.pdb
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Controllers\bin\Debug\Entidades.dll
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Controllers\bin\Debug\EntityFramework.dll
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Controllers\bin\Debug\Entidades.pdb
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Controllers\bin\Debug\EntityFramework.xml
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Controllers\obj\Debug\Controllers.csproj.CopyComplete
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Controllers\obj\Debug\Controllers.dll
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Controllers\obj\Debug\Controllers.pdb
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Controllers\obj\Debug\Controllers.Migrations.banco.resources
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Controllers\obj\Debug\Controllers.csproj.GenerateResource.cache

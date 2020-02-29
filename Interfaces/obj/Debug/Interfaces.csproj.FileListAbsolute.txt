@@ -1,0 +1,14 @@
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Interfaces\bin\Debug\Interfaces.dll.config
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Interfaces\bin\Debug\Interfaces.dll
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Interfaces\bin\Debug\Interfaces.pdb
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Interfaces\bin\Debug\EntityFramework.dll
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Interfaces\bin\Debug\EntityFramework.xml
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Interfaces\obj\Debug\Interfaces.dll
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Interfaces\obj\Debug\Interfaces.pdb
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Interfaces\bin\Debug\Entidades.dll
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Interfaces\bin\Debug\Entidades.pdb

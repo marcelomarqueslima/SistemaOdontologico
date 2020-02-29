@@ -1,0 +1,6 @@
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Entidades\bin\Debug\Entidades.dll
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Entidades\bin\Debug\Entidades.pdb
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Entidades\obj\Debug\Entidades.dll
+D:\Estudo de Programação Microsoft C#\Curso C# Asp.Net com Entity Framework\SistemaOdontologico\Entidades\obj\Debug\Entidades.pdb
